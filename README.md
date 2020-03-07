@@ -16,6 +16,8 @@ This UI was made just for practice, to get know about widgets in Flutter. The wi
   </tr>
  </table>
 
+ Design Credits: [https://dribbble.com/shots/6687016-Foody-Food-by-Subscription](https://dribbble.com/shots/6687016-Foody-Food-by-Subscription)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
